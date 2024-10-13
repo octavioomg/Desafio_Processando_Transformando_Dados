@@ -1,4 +1,4 @@
-# Desafio Power BI - Transformação e processamento de dados com Power Query
+# Desafio Power BI - Transformação e Processamento de Dados com Power Query
 
 ## Principais pontos de aprendizado:
 - Identificação e correção de nomes de cabeçalhos com a função "Usar primeira linha como cabeçalho";
