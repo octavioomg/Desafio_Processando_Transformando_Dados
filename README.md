@@ -1,9 +1,11 @@
 # Desafio Power BI - Transformação e Processamento de Dados com Power Query
 
 ## Principais pontos de aprendizado:
+- Extração e acesso aos dados por meio de banco de dados SQL - MySQL;
+- Vínculo na base de dados SQL com o Power BI;
 - Identificação e correção de nomes de cabeçalhos com a função "Usar primeira linha como cabeçalho";
 - Modificação de valores de acordo com a característica do dado. Ex: monetário em R$ (decimal fixo);
-- Tratamento e limpeza de dados, removendo linhas e colunas vazias "null";
+- Tratamento e limpeza de dados, removendo linhas e colunas vazias;
 - Verificação dos valores fora de contexto da tabela e adaptação deles para outros cenários e tabelas;
 - Caracterização dos dados de acordo com os relacionamentos entre tabelas;
 - Divisão de colunas complexas (com muitos valores distintos) para várias colunas com o objetivo de simplificar as análises;
