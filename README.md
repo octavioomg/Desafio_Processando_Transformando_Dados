@@ -24,6 +24,7 @@
 
 ## Inclusos no repositório:
 - Base MySQL - sakila;
+- Arquivo Power BI utilizado para tratamento dos dados;
 - Scripts MySQL para utilização de mais dados de exemplo disponibilizados pela DIO. 
 
 ## Link de visualização do relatório básico que foi feito os testes:
